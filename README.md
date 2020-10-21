@@ -6,3 +6,5 @@
 4. The spectra is shifted to account for movement and systematics.
 4. The Error calculation code is underconstruction but was created with the guidance of code from https://github.com/tboudreaux
 6. The Halpha Equivalent widths are found with eqwidth.py within Professor Elisabeth Newton's ernlib library: https://github.com/ernewton/ernlib/blob/master/eqwidth.py
+
+Note: You must edit the paths
